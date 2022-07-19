@@ -3398,19 +3398,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cosmos\\.nuget\\packages\\": {}
+    "C:\\Users\\msi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\DemoApiApp\\DemoApiApp.csproj",
+      "projectUniqueName": "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj",
       "projectName": "DemoApiApp",
-      "projectPath": "D:\\Dev\\DemoApiApp\\DemoApiApp.csproj",
-      "packagesPath": "C:\\Users\\cosmos\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\DemoApiApp\\obj\\",
+      "projectPath": "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj",
+      "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cosmos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3477,7 +3477,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
