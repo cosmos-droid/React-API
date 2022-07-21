@@ -1,0 +1,8 @@
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.csproj.AssemblyReference.cache
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.AssemblyInfoInputs.cache
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.AssemblyInfo.cs
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.csproj.CoreCompileInputs.cache
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.RazorAssemblyInfo.cache
+C:\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.RazorAssemblyInfo.cs
