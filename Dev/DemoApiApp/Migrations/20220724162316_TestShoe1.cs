@@ -2,15 +2,18 @@
 
 #nullable disable
 
-namespace Identity.Migrations
+namespace DemoApiApp.Migrations
 {
-    public partial class InitialMigration2 : Migration
+    /// <inheritdoc />
+    public partial class TestShoe1 : Migration
     {
+        /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
 
         }
 
+        /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
 

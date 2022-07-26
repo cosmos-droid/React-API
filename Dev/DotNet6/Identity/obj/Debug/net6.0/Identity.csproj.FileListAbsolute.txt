@@ -130,3 +130,4 @@ D:\Unity\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\refint\Identity.
 D:\Unity\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.pdb
 D:\Unity\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\Identity.genruntimeconfig.cache
 D:\Unity\GitHub\React-API\Dev\DotNet6\Identity\obj\Debug\net6.0\ref\Identity.dll
+D:\Unity\GitHub\React-API\Dev\DotNet6\Identity\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj": {}
+    "D:\\Unity\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj": {
+    "D:\\Unity\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj",
+        "projectUniqueName": "D:\\Unity\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj",
         "projectName": "DemoApiApp",
-        "projectPath": "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj",
-        "packagesPath": "C:\\Users\\msi\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\React-API\\Dev\\DemoApiApp\\obj\\",
+        "projectPath": "D:\\Unity\\GitHub\\React-API\\Dev\\DemoApiApp\\DemoApiApp.csproj",
+        "packagesPath": "C:\\Users\\cosmos\\.nuget\\packages\\",
+        "outputPath": "D:\\Unity\\GitHub\\React-API\\Dev\\DemoApiApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\msi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cosmos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
